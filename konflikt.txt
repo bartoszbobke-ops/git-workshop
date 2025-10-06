@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Wersja A: Zmiana z brancha A
+>>>>>>> branch-b
